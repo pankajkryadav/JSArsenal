@@ -26,6 +26,7 @@ JS Arsenal categorizes its extraction modules into three main tabs:
 - Source Code Comments
 - Technology Fingerprinting
 - Third-Party Integrations
+![](ToolShots/common_recon.png)
 
 ### 🔬 Advanced Analysis
 - Cloud URLs (S3, Azure, GCS, etc.)
@@ -35,6 +36,7 @@ JS Arsenal categorizes its extraction modules into three main tabs:
 - Social Media Links
 - JavaScript API Endpoints (`fetch`, `axios`)
 - GraphQL Schema Discovery
+![](ToolShots/Advanced_analysis.png)
 
 ### 🏹 Vulnerability Hunting
 - Secrets & API Keys
