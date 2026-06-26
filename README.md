@@ -79,6 +79,7 @@ JS Arsenal categorizes its extraction modules into three main tabs:
 Once the analysis is complete, navigate to your selected output folder. You will find:
 - Individual `.txt` files for each selected category (e.g., `endpoints.txt`, `secrets.txt`).
 - `report.html`: A beautiful, styled HTML report summarizing all findings per URL.
+![](ToolShots/2.png)
 ![](ToolShots/3.png)
 ## ⚠️ Disclaimer
 
