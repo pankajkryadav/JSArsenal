@@ -12,7 +12,8 @@ Built with Python and a sleek CustomTkinter interface, JS Arsenal scales to hand
 - **Scope Filtering**: Only process URLs that match specific keywords (e.g., `api.example.com`, `example`).
 - **Detailed Reporting**: Exports results cleanly into categorized `.txt` files and generates a beautiful `.html` report.
 - **Customizable**: Toggle exactly what you want to search for, or add your own custom regex patterns.
-
+![](ToolShots/1.png)
+![](ToolShots/2.png)
 ## 🧰 Extraction Capabilities
 
 JS Arsenal categorizes its extraction modules into three main tabs:
@@ -76,7 +77,7 @@ JS Arsenal categorizes its extraction modules into three main tabs:
 Once the analysis is complete, navigate to your selected output folder. You will find:
 - Individual `.txt` files for each selected category (e.g., `endpoints.txt`, `secrets.txt`).
 - `report.html`: A beautiful, styled HTML report summarizing all findings per URL.
-
+![](ToolShots/3.png)
 ## ⚠️ Disclaimer
 
 This tool is created for **educational purposes and ethical security research** only. You must have explicit permission from the target before performing any reconnaissance or security testing. The author is not responsible for any misuse or damage caused by this program.
