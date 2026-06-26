@@ -26,7 +26,6 @@ JS Arsenal categorizes its extraction modules into three main tabs:
 - Source Code Comments
 - Technology Fingerprinting
 - Third-Party Integrations
-![](ToolShots/common_recon.png)
 
 ### 🔬 Advanced Analysis
 - Cloud URLs (S3, Azure, GCS, etc.)
@@ -36,7 +35,6 @@ JS Arsenal categorizes its extraction modules into three main tabs:
 - Social Media Links
 - JavaScript API Endpoints (`fetch`, `axios`)
 - GraphQL Schema Discovery
-![](ToolShots/Advanced_analysis.png)
 
 ### 🏹 Vulnerability Hunting
 - Secrets & API Keys
@@ -81,6 +79,7 @@ Once the analysis is complete, navigate to your selected output folder. You will
 - `report.html`: A beautiful, styled HTML report summarizing all findings per URL.
 ![](ToolShots/2.png)
 ![](ToolShots/3.png)
+![](ToolShots/Analysis.png)
 ## ⚠️ Disclaimer
 
 This tool is created for **educational purposes and ethical security research** only. You must have explicit permission from the target before performing any reconnaissance or security testing. The author is not responsible for any misuse or damage caused by this program.
